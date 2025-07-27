@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramchandra Prasad</h1>
 <h3 align="center">A passionate in Data science and AI and frontend developer</h3>
 
-- 🔭 I’m currently working on **A Jarvis Project**
-
-- 👯 I’m looking to collaborate on **AI projects related to my domain**
+- 🔭 I’m currently working on **A Data Science and AI**
 
 - 📫 How to reach me **kramchandraprasad7@gmail.com / https://www.linkedin.com/in/k-ramchandra-prasad-683b10255**
 
