@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, nextjs , typescript**
 
-- 📫 How to reach me **kramchandraprasad7@gmail.com / https://www.linkedin.com/in/k-ramchandra-prasad-683b10255**
+- 📫 How to reach me **kramchandraprasad7@gmail.com / https://www.linkedin.com/in/ramchandraprasad/**
 
 - ⚡ Fun fact **Code. Learn. Build. Repeat.**
 
