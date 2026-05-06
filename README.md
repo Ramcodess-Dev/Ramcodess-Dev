@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence and Machine learning (AI/ML)**
 
-- 🌱 I’m currently learning **Golang, rust, AI-Agents**
+- 🌱 I’m currently learning **Golang, machine learning, deep learning, Agentic AI and AI-Agents**
 
 - 👯 I’m looking to collaborate on **projects related to my domain**
 
